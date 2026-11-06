@@ -1,0 +1,11 @@
+title: Create Links for Jira
+description: Prefilled create issue links for Jira Cloud – user guide, link reference, recipes, Data Center migration, privacy, terms and support.
+theme: minima
+header_pages:
+  - index.md
+  - guide.md
+  - reference.md
+  - recipes.md
+  - migration.md
+  - faq.md
+  - support.md
