@@ -13,6 +13,7 @@ In Jira: **Apps → Create Links** (in the sidebar under "Apps"). Every user of 
 3. **Fields** – the fields of that work type's create screen are listed. Fill in what the link should prefill; leave the rest empty. People can still change every value in the dialog before they create the work item.
    - **Assign to the person who opens the link** sets the assignee to whoever clicks the link.
    - **Labels** are separated by spaces.
+   - **Date fields** take a fixed date, or a date **relative to the day the link is used** (today, tomorrow, in 3 days, in 1 week, in 2 weeks, in 1 month, in 3 months).
    - Fields a link cannot fill (for example attachments, linked work items, sprint, team) are listed under the fields.
 4. **Your link** shows the link. Copy it, or click **Try it** to open the create dialog with it.
 
@@ -22,8 +23,13 @@ The link contains the values themselves, so you can share it right away – noth
 Under **Save as a shared link** give the link a name and click **Save link**. You get a short link like `…?t=k3j9x0a1b2c3`.
 
 - Change a saved link later in **Saved links → Edit**; every place that uses the short link follows.
+- **Duplicate** starts a new saved link from an existing one – handy for similar links in other spaces or work types.
+- With more than a few links, **Find a saved link** searches names, spaces, work types and summaries.
 - **Delete** removes it; the short link then explains that it no longer exists.
 - Space admins can save, change and delete links of their spaces, Jira admins of all spaces. Everyone sees the saved links of the spaces they can browse.
+
+## A create menu in every space
+Every space gets a **Create Links** page (in the space's navigation, often under *More* or *Apps*). It lists the space's saved links; **Create** opens the create dialog with that link's fields filled in. People find your templates where they work, without bookmarks.
 
 ## Placeholders
 Placeholders are replaced when someone opens the link, in their time zone:

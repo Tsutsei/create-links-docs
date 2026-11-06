@@ -19,6 +19,7 @@ Jira Server and Data Center could do this with `CreateIssueDetails!init.jspa?pid
 - **Prefilled links** for every field of the create screen that a link can fill: text, paragraph, number, date, select, multi-select, labels, priority, components, versions, assignee.
 - **A link builder** – choose a space and a work type, fill in the fields, copy the link. No URL syntax to learn.
 - **Saved links** – short links (`?t=…`) that space admins can change later; every page and e-mail that uses the link follows.
+- **A create menu in every space** – the saved links of a space appear on its Create Links page, one click per template.
 - **Placeholders** – `{today+7d}` for a due date a week ahead, `{week}` in a weekly report, `{1}`…`{9}` for values that come with the link.
 - **A converter for Data Center links**, see [Migrating from Data Center]({{ '/migration/' | relative_url }}).
 
