@@ -6,7 +6,7 @@ permalink: /privacy/
 
 _Last updated: 6 November 2026_
 
-This policy describes how the Atlassian Marketplace app "Create Links – Prefilled Create Issue Links for Jira" (the "App") processes data. The App is provided by **Bc. Tomáš Buchta, sole trader, Company ID (IČO) 21540951, registered office 30. dubna 2307/12, 702 00 Ostrava, Czech Republic** ("we"). Contact: **[support@tsutsei-support.atlassian.net](mailto:support@tsutsei-support.atlassian.net)**.
+This policy describes how the Atlassian Marketplace app "Create Links – Prefilled Create Issue Links for Jira" (the "App") processes data. The App is provided by **Tsutsei Software**, a brand of the sole trader identified on the [Legal information](https://tsutsei-software.com/legal.html) page ("we"). Contact: **[support@tsutsei-support.atlassian.net](mailto:support@tsutsei-support.atlassian.net)**.
 
 ## 1. What the App stores
 Only **saved links** created by space or Jira admins: the link's name, the space (project) and work type it opens, and the default field values chosen for it. The App stores **no personal data**: no account IDs, names, e-mail addresses, and nothing about who opened or used a link. The assignee of a saved link can only be "the person who opens the link", resolved when the link is opened.

@@ -6,7 +6,7 @@ permalink: /dpa/
 
 _Last updated: 6 November 2026_
 
-This Data Processing Addendum ("DPA") forms part of the [Terms of use]({{ '/terms/' | relative_url }}) between the customer installing **Create Links – Prefilled Create Issue Links for Jira** ("Customer", controller) and **Bc. Tomáš Buchta, sole trader, IČO 21540951, 30. dubna 2307/12, 702 00 Ostrava, Czech Republic** ("Vendor", processor), and applies to personal data processed by the App under Article 28 of the GDPR.
+This Data Processing Addendum ("DPA") forms part of the [Terms of use]({{ '/terms/' | relative_url }}) between the customer installing **Create Links – Prefilled Create Issue Links for Jira** ("Customer", controller) and **Tsutsei Software**, a brand of the sole trader identified on the [Legal information](https://tsutsei-software.com/legal.html) page ("Vendor", processor), and applies to personal data processed by the App under Article 28 of the GDPR.
 
 1. **Subject matter and duration.** Storing the Customer's saved create links and opening Jira's create dialog with their values, for as long as the App is installed.
 2. **Nature and purpose.** Storage and display of saved links (name, space, work type, default field values), solely to provide the App's functionality.
